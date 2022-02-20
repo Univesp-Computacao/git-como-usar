@@ -1,7 +1,4 @@
-# Guia e Referências
+# GIT - Uma Introdução
+
 Repositória com guia e referências em diversos assuntos
-
-
-GIT
-
 cursos, artigos, videos, exemplos, etc...
