@@ -8,6 +8,7 @@
 - Entendendo GIT | (não é um tutorial) - https://www.youtube.com/watch?v=6Czd1Yetaac&t=2077s
 
 ## Guias:
-[- Breve guia de uso e comandos iniciais ](url)
+[Perguntas e Respostas](https://github.com/UNIVESP-21/git-como-usar/blob/main/perguntas-e-respostas.md)
 
-[- Guia intermediário de comandos do git](url)
+[- Breve guia de uso e comandos iniciais (por fazer)](url)
+
