@@ -12,7 +12,7 @@ Git é um sistema de versionamento de códigos.
 - [O que é Git e Github? - definição e conceitos importantes](https://www.youtube.com/watch?v=DqTITcMq68k) 
 - [Git e GitHub para Iniciantes](https://www.youtube.com/watch?v=KLG-jC1fh28)  
 - [Entendendo GIT | (não é um tutorial)](https://www.youtube.com/watch?v=6Czd1Yetaac&t=2077s)
-- [Tutorial Git - Introdução](https://www.youtube.com/watch?v=LVAemz9Tsbk) 
+- [Tutorial Git - Introdução](https://www.youtube.com/watch?v=o-v5QqBVJPQ) 
 
 ## Guias:
 - [Perguntas e Respostas](https://github.com/UNIVESP-21/git-como-usar/blob/main/perguntas-e-respostas.md)
