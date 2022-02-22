@@ -111,3 +111,59 @@ git rm [nome
 
 #chamamos o comando rm que vem do inglêss "to remove", remover
 ```
+
+### Listar históriada versão de uma branch:
+```bash
+git log
+```
+
+### Mostrar metadados e o conteúdo de um commit específico
+```bash
+git show [commit] 
+```
+
+### Desfazer todos os commits feitos depois do commit: 
+```bash
+git reset [commit] 
+```
+### Guardar temporariamente os arquivos modificados:
+```bash
+git stash 
+```
+
+### Fazer upload do local para o remoto:
+```bash
+git push [alias] [branch] 
+```
+### Download toda a versão atualizada do remoto para o local:
+```bash
+git pull 
+```
+### Verificar arquivos ocultos
+```bash
+ls -a 
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
