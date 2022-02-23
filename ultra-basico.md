@@ -115,7 +115,7 @@ git pull
 ```
 Verifique se no diretório da sua máqiuna constam todos os arquivos que constam no github. 
 
-Para aprender mais sobre os comandos git confira a documentação do GitHub:
+Para aprender mais sobre os comandos git e o github confira a documentação do GitHub:
 https://docs.github.com/pt
 
 
