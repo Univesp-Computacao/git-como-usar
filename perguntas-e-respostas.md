@@ -27,7 +27,6 @@ Significa que seus dados foram salvos em sua base de dados local.
 ## O que é "modified" ?
 Significa que teve altrações e elas ainda não foram comitadas.
 
-
 ## O que é "staged" ?
 Significa que você tem uma marcação das modificações feitas no arquivo  e que elas estão prontas para ir para a próxima versão no próximo commit.
 
@@ -97,7 +96,7 @@ git add .
 git diff --staged
 ```
 
-## Se você cidentalmente adicionar um arquivo e quiser removê-lo? 
+## Se você acidentalmente adicionar um arquivo e quiser removê-lo? 
 ```bash
 git reset [nome_do_arquivo.txt]
 ```
@@ -128,10 +127,10 @@ git init [project-name]
 ```
 
 ## O que é Git Bash?
-É uma interface para Windows. (No Linux já vem nativo).
+É uma interface para Windows (no Linux já vem nativo).
  
 ## O que é Git Stash?
-é Um jeito de salvar o trabalho para mais tarde.
+É Um jeito de salvar o trabalho para mais tarde, quando você ainda não quer adicionar e fazer o commit.
 
 ## O que é "merging" ?
 É um jeito de trazer as mudanças para a versão corrente, é a integração entre duas branches.
