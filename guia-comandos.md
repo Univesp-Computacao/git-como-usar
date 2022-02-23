@@ -109,10 +109,10 @@ git branch -d [nome-da-branch]
 ```bash
 git rm [nome 
 
-#chamamos o comando rm que vem do inglêss "to remove", remover
+#chamamos o comando rm que vem do inglês "to remove", remover
 ```
 
-### Listar históriada versão de uma branch:
+### Listar história da versão de uma branch:
 ```bash
 git log
 ```
@@ -135,7 +135,7 @@ git stash
 ```bash
 git push [alias] [branch] 
 ```
-### Download toda a versão atualizada do remoto para o local:
+### Download de toda a versão atualizada do remoto para o local:
 ```bash
 git pull 
 ```
