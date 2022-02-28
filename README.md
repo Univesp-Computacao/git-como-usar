@@ -1,12 +1,11 @@
 # GIT - para que serve e como usar? 
 
-Caso esse seja seu primeiro contato com Git acesse o conteúdo: [ultra-basico](https://github.com/UNIVESP-21/git-como-usar/blob/main/ultra-basico.md)
+Caso esse seja seu primeiro contato com Git acesse o conteúdo: [primeiros-passos](https://github.com/UNIVESP-21/git-como-usar/blob/main/ultra-basico.md)
 
 
 ## Guias:
 - [Perguntas e Respostas](https://github.com/UNIVESP-21/git-como-usar/blob/main/perguntas-e-respostas.md)
 - [Guia de Comandos](https://github.com/UNIVESP-21/git-como-usar/blob/main/guia-comandos.md)
-
 
 
 ## Video-aulas/Tutoriais (Youtube):
@@ -23,6 +22,8 @@ Caso esse seja seu primeiro contato com Git acesse o conteúdo: [ultra-basico](h
 - [Git](https://git-scm.com/docs)
 - [Github](https://docs.github.com/pt)
 
+## Livros: 
+- [Git (livro da comnidade)](http://git-scm.com/book/pt-br/v2)
 
 ## O que é o Git?
 
