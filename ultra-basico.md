@@ -27,12 +27,12 @@ git --version
 ## :sparkles: Configurando GitHub localmente
 Inicie o Terminal e digite o seguinte comando para adicionar seu nome de usuário Github:
 ```bash
-git config--global user.name "seu_github_username"
+git config --global user.name "seu_github_username"
 ```
 
 Em seguida, adicione seu e-mail usando este comando:
 ```bash
-git config--global user.email "seu_email@github.com"
+git config --global user.email "seu_email@github.com"
 ```
 
 ## Iniciando um repositório 
