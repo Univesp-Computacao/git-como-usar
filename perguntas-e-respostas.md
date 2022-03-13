@@ -3,6 +3,9 @@
 ## O que é Git? 
 Git é um software Open Source criado por Linus Torvalds que funciona como um sistema de versionamento distribuído moderno, que facilita a vida de qualquer pessoa durante a criação e manutenção de projetos comerciais e de código-fonte aberto.
 
+## O que é o GitHub?
+GitHub é uma interface online para o Git. Git é um software usado localmente em seu computador para registrar alterações. O GitHub é um host para seus arquivos e os registros das alterações feitas. Você pode pensar nisso como sendo semelhante ao DropBox - os arquivos estão no seu computador, mas também estão hospedados online e podem ser acessados de qualquer computador. O GitHub tem o benefício adicional de ser interface para o Git, para acompanhar todas as versões e alterações de seus arquivos.
+
 ## O que é VCS?
 Controle de Versão é um sistema que grava mudanças feitas a um ou mais arquivos e que permite seja feito uma rechamada de versões específicas se for preciso.
 
