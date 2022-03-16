@@ -6,7 +6,7 @@ Caso esse seja seu primeiro contato com Git acesse o conteúdo: [primeiros-passo
 ## Guias:
 - [Perguntas e Respostas](https://github.com/UNIVESP-21/git-como-usar/blob/main/perguntas-e-respostas.md)
 - [Guia de Comandos](https://github.com/UNIVESP-21/git-como-usar/blob/main/guia-comandos.md)
-
+- [Quer jogar o Git? Aprenda com o Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
 
 ## Video-aulas/Tutoriais (Youtube):
 - [Git - Dicionário do Programador](https://www.youtube.com/watch?v=za5KWZ5pRag)
@@ -16,6 +16,7 @@ Caso esse seja seu primeiro contato com Git acesse o conteúdo: [primeiros-passo
 - [Entendendo GIT | (não é um tutorial)](https://www.youtube.com/watch?v=6Czd1Yetaac&t=2077s)
 - [Tutorial Git - Introdução](https://www.youtube.com/watch?v=o-v5QqBVJPQ) 
 - [Como usar Git e Github na prática: Guia para iniciantes](https://www.youtube.com/watch?v=2alg7MQ6_sI)
+- [Primiro Pull Request com o Filho da Nuvem](https://www.youtube.com/watch?v=Du04jBWrv4A)
 
 
 ## Documentação Oficial: 
@@ -23,7 +24,7 @@ Caso esse seja seu primeiro contato com Git acesse o conteúdo: [primeiros-passo
 - [Github](https://docs.github.com/pt)
 
 ## Livros: 
-- [Git (livro da comnidade)](http://git-scm.com/book/pt-br/v2)
+- [Git (livro da comunidade)](http://git-scm.com/book/pt-br/v2)
 
 ## O que é o Git?
 
@@ -34,4 +35,3 @@ Git é um sistema de versionamento de códigos, criado por Linus Torvalds no ano
 A principal maneira de se usar o Git de seu modo CLI (Command Line Interafce), ou seja, o Git por si não possui uma interface gráfica. 
 Mas várias ferramentas já foram craidas para usar Git: o Github, o Gitlab e o BitBucklett, são plataformas online que podem ser usadas gratuitamente para fins pessoais, como também temos plataformas que rodam em Desktop como o GitKraken. Além disso temos o aplicativo do GitHub para Smartphones(Android e IOS).
 Essas ferramentas ajudam a visualizar como o Git funciona, mas a linha de comandos é sempre um jeito mais simples e rápido. 
-
