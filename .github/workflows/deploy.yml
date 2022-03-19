@@ -1,11 +1,12 @@
-name: mkdocs
+name: mkdocs auto
 
 on:
   push:
-    branches: [ main ]
-  paths:
-    - "**.md"
-    - "mkdocs.yml"
+    branches:
+      - main
+    paths:
+      - "**.md"
+      - "mkdocs.yml"
   workflow_dispatch:
 
 jobs:
