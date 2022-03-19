@@ -2,7 +2,6 @@
 
 Caso esse seja seu primeiro contato com Git acesse o conteúdo: [primeiros-passos](https://github.com/UNIVESP-21/git-como-usar/blob/main/ultra-basico.md)
 
-
 ## Guias:
 - [Perguntas e Respostas](https://github.com/UNIVESP-21/git-como-usar/blob/main/perguntas-e-respostas.md)
 - [Guia de Comandos](https://github.com/UNIVESP-21/git-como-usar/blob/main/guia-comandos.md)
