@@ -16,6 +16,7 @@ Caso esse seja seu primeiro contato com Git acesse o conteúdo: [primeiros-passo
 - [Tutorial Git - Introdução](https://www.youtube.com/watch?v=o-v5QqBVJPQ) 
 - [Como usar Git e Github na prática: Guia para iniciantes](https://www.youtube.com/watch?v=2alg7MQ6_sI)
 - [Primeiro Pull Request com o Filho da Nuvem](https://www.youtube.com/watch?v=Du04jBWrv4A)
+- [O que é Github? (legendas em português)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 
 ## Documentação Oficial: 
