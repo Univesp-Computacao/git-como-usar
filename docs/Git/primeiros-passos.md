@@ -5,6 +5,7 @@ Embora Git seja de fato um programa muito simples, fácil e divertido de usar el
 o Terminal de Comandos, tudo será muito mais fácil. Se você ainda não utiliza o Terminal de Comandos pense em começar a usar pois ele irá te ajudar em diversas 
 funções. O recomendado é saber o básico dos comandos de navegação no terminal, como criar um diretório, como criar um arquivo, com listar diretórios e arquivos, entre 
 outros.
+
 - [Usando Terminal de Comandos no Windows](https://blog.cod3r.com.br/terminal-no-windows/)
 - [Usando Terminal no MacOS](https://recoverit.wondershare.com.br/mac-tips/how-to-open-terminal-and-use-terminal-on-mac.html)
 - [Guia de Comandos no Terminal - Linux](https://www.hostinger.com.br/tutoriais/comandos-linux) 
