@@ -37,15 +37,15 @@ theme:
     - toc.follow
     #- toc.integrate
   palette:
-    - scheme: default
-      primary: blue grey
-      accent: yellow
+    - scheme: slate
+      primary: deep purple
+      accent: light green
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-    - scheme: slate
-      primary: red
-      accent: red
+    - scheme: default
+      primary: deep purple
+      accent: green
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
