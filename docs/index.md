@@ -17,6 +17,11 @@ Caso esse seja seu primeiro contato com Git acesse o conteúdo: [primeiros-passo
 - [Tutorial Git - Introdução](https://www.youtube.com/watch?v=o-v5QqBVJPQ) 
 - [Como usar Git e Github na prática: Guia para iniciantes](https://www.youtube.com/watch?v=2alg7MQ6_sI)
 - [Primeiro Pull Request com o Filho da Nuvem](https://www.youtube.com/watch?v=Du04jBWrv4A)
+- [ Configurando rapidamente repositórios Git e Github pelo VS Code // Mão no Código #5 ](https://www.youtube.com/watch?v=H0SQAW9tmmE)
+
+
+## Tutoriais por texto
+- [Configurando ambiente JAVA no GithubCodespaces](https://griffin-19.notion.site/Projeto-Java-no-Github-Codespaces-89f9fbee9adf4dfe88cac25f36faef08)
 
 
 ## Documentação Oficial: 
