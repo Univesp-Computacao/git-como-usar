@@ -27,6 +27,7 @@ Caso esse seja seu primeiro contato com Git acesse o conteúdo: [primeiros-passo
 ## Documentação Oficial: 
 - [Git](https://git-scm.com/docs)
 - [Github](https://docs.github.com/pt)
+- [Opções de Git Clients - documentação git ](https://git-scm.com/downloads/guis/)
 
 ## Livros: 
 - [Git (livro da comunidade)](http://git-scm.com/book/pt-br/v2)
